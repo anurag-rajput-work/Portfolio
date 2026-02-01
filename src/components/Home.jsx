@@ -52,8 +52,8 @@ function Home() {
             </button>
           </Link>
 
-          <Link to="/About">
-            <button className="px-8 py-3 rounded-xl border border-gray-600 hover:bg-white hover:text-black transition">
+          <Link to="/about">
+            <button className="px-8 py-3 rounded-xl border border-gray-600 bg-white text-black transition hover:scale-105">
               About Me
             </button>
           </Link>

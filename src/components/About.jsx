@@ -12,7 +12,7 @@ function About() {
 
   const Experiences = [
     {
-      Jobrole: "Coustomer care Executive",
+      Jobrole: "Customer care Executive",
       Company: "Colossal infotech Pvt Ltd",
       Duration: "2023/01 – 2024/03",
       Location: "Noida, India",
